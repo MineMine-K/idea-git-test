@@ -10,4 +10,8 @@ public class Test {
     public static void test(){
         System.out.println("hello java!");
     }
+
+    public static void show(){
+        System.out.println(111);
+    }
 }
